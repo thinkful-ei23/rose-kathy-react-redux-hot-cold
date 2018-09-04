@@ -4,7 +4,7 @@ import TopNav from './top-nav';
 
 import './header.css';
 
-import {restartGame} from '../actions'; //do we need this here? 
+import { restartGame } from '../actions'; //do we need this here?
 
 export default function Header(props) {
   return (
